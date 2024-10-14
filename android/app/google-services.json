@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316147548093",
+    "project_id": "brew-crew-89a1e",
+    "storage_bucket": "brew-crew-89a1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316147548093:android:656497df714940db6bdcd4",
+        "android_client_info": {
+          "package_name": "com.hitanshu.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnS2bL6ao0yQs6fwQR6YXkDzzUEdkovT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
